@@ -1,0 +1,22 @@
+{
+  "name": "rajyasabha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rajya.js",
+  "scripts": {
+    "server": "json-server --watch rajyaSabhaData.json --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Preeti16031998/RajyaSabha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Preeti16031998/RajyaSabha/issues"
+  },
+  "homepage": "https://github.com/Preeti16031998/RajyaSabha#readme",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}
